@@ -256,6 +256,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
 - <img src="https://static.wikia.nocookie.net/logopedia/images/2/25/Apple_Books_%28iOS%29_2024_dark.svg/revision/latest?cb=20240616234654" height="14"/> [Apple Books](https://github.com/vgnshiyer/apple-books-mcp) - Transform your Apple Books to a queryable knowledge base.
 - <img src="https://github.com/onebirdrocks/ebook-mcp/raw/refs/heads/main/favicon.png" alt="ebook-mcp Logo" height="14" /> [eBook-mcp](https://github.com/onebirdrocks/ebook-mcp) - A lightweight MCP server that allows LLMs to read and interact with your personal PDF and EPUB ebooks on your local machine. Ideal for building AI reading assistants or chat-based ebook interfaces.
+- <img src="https://cdn.brandfetch.io/id4MiTks7Q/w/2250/h/2250/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="14"> [Fathom AI](github.com/agencyenterprise/fathom-mcp-server) - Chat with your meeting transcripts and gain insights faster.
 - <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)<sup><sup>1</sup></sup> - Obsidian vault integration with tools for file management, search, and content manipulation
 - <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/calclavia/mcp-obsidian)<sup><sup>2</sup></sup> - Alternative implementation for reading and searching Markdown notes
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/danhilse/notion_mcp)<sup><sup>1</sup></sup> - Notion API integration for managing personal todo lists and notes
@@ -264,7 +265,6 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
-- <img src="https://cdn.brandfetch.io/id4MiTks7Q/w/2250/h/2250/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="14"> [Fathom AI](github.com/agencyenterprise/fathom-mcp-server) - Chat with your meeting transcripts and gain insights faster.
 
 <br />
 
